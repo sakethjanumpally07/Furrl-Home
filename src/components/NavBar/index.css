@@ -1,0 +1,27 @@
+.nav-header {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff;
+}
+
+.nav-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-heading{
+  font-family: "Roboto";
+  font-weight: normal;
+  text-align: center;
+}
+
+.buttons {
+  padding-left: 20px;
+}
+
+.icon-button {
+  border: none;
+  background-color: transparent;
+}
